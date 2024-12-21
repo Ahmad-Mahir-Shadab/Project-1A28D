@@ -24,8 +24,11 @@ Fork the repository.
 
 ### Roadmap
 MVP: Basic journaling, screen time analysis, and progress graphs.
+
 Phase 2: Health integrations with Google Fit and Apple HealthKit.
+
 Phase 3: Gamified streaks, advanced analytics, and cloud features.
+
 
 ### License
 This project is licensed under the MIT License.
